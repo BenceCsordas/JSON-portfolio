@@ -2,7 +2,7 @@
 	{
 		"id": "1",
 		"title": "Ingatlaniroda",
-		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1740729470/ingatlan_gillmf.png",
+		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1742748907/ingatlan_niyman.png",
 		"repo_link": "https://github.com/BenceCsordas/ingatlaniroda",
 		"topics": [
 			"fetch API",
@@ -17,7 +17,7 @@
 	{
 		"id": "2",
 		"title": "Products",
-		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1740729470/products_g6ans5.png",
+		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1742748907/termek_iyzyfg.png",
 		"repo_link": "https://github.com/BenceCsordas/Products",
 		"topics": [
 			"fetch API",
@@ -30,7 +30,7 @@
 	{
 		"id": "3",
 		"title": "Virágbolt",
-		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1740729577/virag_y04edn.png",
+		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1742748908/viragbolt_ex0itb.png",
 		"repo_link": "https://github.com/BenceCsordas/Viragbolt",
 		"topics": [
 			"fetch API",
@@ -45,7 +45,7 @@
 	{
 		"id": "4",
 		"title": "Search",
-		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1740729470/cat_epuvtm.png",
+		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1742748907/search_vtwiek.png",
 		"repo_link": "https://github.com/BenceCsordas/Private",
 		"topics": [
 			"fetch API",
@@ -58,7 +58,7 @@
 	{
 		"id": "5",
 		"title": "Users",
-		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1740729470/users_uxehil.png",
+		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1742748908/users_svsd0y.png",
 		"repo_link": "https://github.com/BenceCsordas/Users",
 		"topics": [
 			"fetch API",
@@ -71,7 +71,7 @@
 	{
 		"id": "6",
 		"title": "Autókölcsönzés",
-		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1740729470/auto_tfrygg.png",
+		"photo_url": "https://res.cloudinary.com/dgodcsh3p/image/upload/v1742748907/autokolcsonzo_hpvzio.png",
 		"repo_link": "https://github.com/BenceCsordas/autokolcsonzes",
 		"topics": [
 			"fetch API",
